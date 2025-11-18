@@ -54,7 +54,8 @@ Easy-to-use folder structure
 Clone the repository:
 
 git clone https://github.com/mohitbt66/AI-Based-Real-Time-Camera-Guidance-System-Using-Computer-Vision-and-Voice-Feedback
-cd Camera_Guidance_Project
+
+Step: Download "_internal" file and "AI Real Time Camera Guidance" exe file in same folder. Then run the exe file. The system will start running in your laptop using your laptop's integrated web camera.
 
 
 # Install dependencies:
