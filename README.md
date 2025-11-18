@@ -4,12 +4,17 @@ A fully functional real-time camera guidance application built using Python, Ope
 
 
 # Features
-Real-time object detection and tracking
-Camera movement guidance system (left/right/up/down)
-Optimized for fast frame processing
-Windows executable included
-Customizable settings through config files
-Easy-to-use folder structure
+1. Real-time object detection and tracking
+
+2. Camera movement guidance system (left/right/up/down)
+
+3. Optimized for fast frame processing
+
+4. Windows executable included
+
+5. Customizable settings through config files
+
+6. Easy-to-use folder structure
 
  
 # Folder Structure
