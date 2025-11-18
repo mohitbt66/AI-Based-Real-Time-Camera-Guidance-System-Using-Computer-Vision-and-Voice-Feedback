@@ -21,11 +21,17 @@ A fully functional real-time camera guidance application built using Python, Ope
  Directory of C:\Users\dellj\Desktop\Camera Guidance Project
 
 09-11-2025  15:58    <DIR>          .
+
 18-11-2025  10:55    <DIR>          ..
+
 09-11-2025  15:29    <DIR>          build
+
 31-10-2025  17:58           189,151 camera.ico
+
 09-11-2025  15:50             1,292 camera_guidance.spec
+
 09-11-2025  15:53    <DIR>          dist
+
 27-10-2025  15:28    <DIR>          DLLs
 27-10-2025  15:28    <DIR>          Doc
 28-10-2025  19:08    <DIR>          HOW TO RUN PROGRAM
